@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="logo">Fintech</div>
       <div className="links">
         {links.map((link, idx) => (
-          <a className="links-item" href={link.href}>
+          <a  key={`${link.title}-${idx}`} className="links-item" href={link.href}>
             {link.title}
           </a>
         ))}
