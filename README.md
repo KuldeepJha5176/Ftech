@@ -156,7 +156,7 @@ Found a bug or have a suggestion? Please check the [issues page](https://github.
 
 **Kuldeep Jha** - [@KuldeepJha5176](https://github.com/KuldeepJha5176)
 
-email: ranacjha@gmail.com
+Email: ranacjha@gmail.com
 
 Project Link: [https://github.com/KuldeepJha5176/Ftech](https://github.com/KuldeepJha5176/Ftech)
 
